@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+  </head>
+  <body>
+
+    <outline text="AI">
+      <outline text="Google AI Blog" type="rss" xmlUrl="http://full-test-rss/makefulltextfeed.php?url=ai.googleblog.com%2Ffeeds%2Fposts%2Fdefault%3Falt%3Drss&amp;max=200&amp;links=preserve&amp;exc=&amp;submit=Create+Feed" htmlUrl="http://ai.googleblog.com/feeds/posts/default?alt=rss"/>
+      <outline text="machinelearningmastery" type="rss" xmlUrl="http://full-test-rss/makefulltextfeed.php?url=sec%3A%2F%2Fmachinelearningmastery.com%2Fblog%2Ffeed&amp;max=10&amp;links=preserve&amp;exc=&amp;submit=Create+Feed" htmlUrl="https://machinelearningmastery.com/blog/feed"/>
+      <outline text="ML in Production" type="rss" xmlUrl="https://mlinproduction.com/feed/" htmlUrl="https://mlinproduction.com/"/>
+      <outline text="OpenAI" type="rss" xmlUrl="http://full-test-rss/makefulltextfeed.php?url=sec%3A%2F%2Fopenai.com%2Fblog%2Frss&amp;max=10&amp;links=preserve&amp;exc=&amp;submit=Create+Feed" htmlUrl="https://openai.com/blog/rss"/>
+      <outline text="The TensorFlow Blog" type="rss" xmlUrl="https://blog.tensorflow.org/feeds/posts/default?alt=rss" htmlUrl="https://blog.tensorflow.org/"/>
+    </outline>
+
+  </body>
+</opml>

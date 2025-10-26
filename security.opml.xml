@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+  </head>
+  <body>
+
+    <outline text="Security">
+      <outline text="John Hammond" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw" htmlUrl="https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw"/>
+      <outline text="The Hacker News" type="rss" xmlUrl="https://feeds.feedburner.com/TheHackersNews" htmlUrl="https://thehackernews.com/"/>
+      <outline text="We live security" type="rss" xmlUrl="https://www.welivesecurity.com/en/rss/feed/" htmlUrl="https://www.welivesecurity.com/"/>
+    </outline>
+
+
+  </body>
+</opml>

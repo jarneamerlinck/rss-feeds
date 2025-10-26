@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+  </head>
+  <body>
+    <outline text="Self Hosted">
+      <outline text="interestingengineering" type="rss" xmlUrl="https://interestingengineering.com/feed" />
+      <outline text="Thalheim Blog" type="rss" xmlUrl="https://blog.thalheim.io/index.xml" htmlUrl="https://blog.thalheim.io/"  />
+    </outline>
+  </body>
+</opml>
