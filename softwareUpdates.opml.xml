@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>Software updates</title>
+  </head>
+  <body>
+    <outline text="Homebox" type="rss" xmlUrl="https://github.com/sysadminsmedia/homebox/releases.atom" htmlUrl="https://github.com/sysadminsmedia/homebox/releases" />
+    <outline text="Ollama" type="rss" xmlUrl="https://github.com/ollama/ollama/releases.atom" htmlUrl="https://github.com/ollama/ollama/releases" />
+    <outline text="OpenWebUI" type="rss" xmlUrl="https://github.com/open-webui/open-webui/releases.atom" htmlUrl="https://github.com/open-webui/open-webui/releases" />
+    <outline text="Firefly III" type="rss" xmlUrl="https://github.com/firefly-iii/firefly-iii/releases.atom" htmlUrl="https://github.com/firefly-iii/firefly-iii/releases" />
+    <outline text="Grafana" type="rss" xmlUrl="https://github.com/grafana/grafana/releases.atom" htmlUrl="https://github.com/grafana/grafana/releases" />
+    <outline text="Paperless-ngx" type="rss" xmlUrl="https://github.com/paperless-ngx/paperless-ngx/releases.atom" htmlUrl="https://github.com/paperless-ngx/paperless-ngx/releases" />
+    <outline text="Tandoor" type="rss" xmlUrl="https://github.com/TandoorRecipes/recipes/releases.atom" htmlUrl="https://github.com/TandoorRecipes/recipes/releases" />
+    <outline text="Homarr" type="rss" xmlUrl="https://github.com/homarr-labs/homarr/releases.atom" htmlUrl="https://github.com/homarr-labs/homarr/releases" />
+    <outline text="KaraKeep" type="rss" xmlUrl="https://github.com/karakeep-app/karakeep/releases.atom" htmlUrl="https://github.com/karakeep-app/karakeep/releases" />
+    <outline text="Immich" type="rss" xmlUrl="https://github.com/immich-app/immich/releases.atom" htmlUrl="https://github.com/immich-app/immich/releases" />
+    <outline text="FreshRSS" type="rss" xmlUrl="https://github.com/FreshRSS/FreshRSS/releases.atom" htmlUrl="https://github.com/FreshRSS/FreshRSS/releases" />
+    <outline text="NetBox" type="rss" xmlUrl="https://github.com/netbox-community/netbox/releases.atom" htmlUrl="https://github.com/netbox-community/netbox/releases" />
+    <outline text="Portainer" type="rss" xmlUrl="https://github.com/portainer/portainer/releases.atom" htmlUrl="https://github.com/portainer/portainer/releases" />
+    <outline text="Traefik" type="rss" xmlUrl="https://github.com/traefik/traefik/releases.atom" htmlUrl="https://github.com/traefik/traefik/releases" />
+  </body>
+</opml>
