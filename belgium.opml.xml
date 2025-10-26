@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>Belgium</title>
+  </head>
+  <body>
+     <outline text="De Standaard : Binnenland" type="rss" xmlUrl="https://www.standaard.be/binnenland/rss/" htmlUrl="https://www.standaard.be/binnenland/"  />
+     <outline text="De Standaard : Buitenland" type="rss" xmlUrl="https://www.standaard.be/buitenland/rss/" htmlUrl="https://www.standaard.be/buitenland/"  />
+     <outline text="De Standaard : Economie" type="rss" xmlUrl="https://www.standaard.be/economie/rss/" htmlUrl="https://www.standaard.be/economie/"  />
+     <outline text="VRT" type="rss" xmlUrl="https://www.vrt.be/vrtnws/nl.rss.articles.xml" htmlUrl="https://www.vrt.be/vrtnws/nl"  />
+  </body>
+</opml>
