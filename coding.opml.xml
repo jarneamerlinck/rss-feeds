@@ -5,6 +5,5 @@
   </head>
   <body>
     <outline text="interestingengineering" type="rss" xmlUrl="https://interestingengineering.com/feed" />
-    <outline text="Thalheim Blog" type="rss" xmlUrl="https://blog.thalheim.io/index.xml" htmlUrl="https://blog.thalheim.io/"  />
   </body>
 </opml>

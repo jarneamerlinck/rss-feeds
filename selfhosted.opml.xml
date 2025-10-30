@@ -4,8 +4,10 @@
     <title>Self hosted</title>
   </head>
   <body>
+    <outline text="Joinemm Blog" type="rss" xmlUrl="https://joinemm.dev/rss.xml" htmlUrl="https://joinemm.dev/blog/" />
     <outline text="CNCF" type="rss" xmlUrl="https://www.cncf.io/feed/" htmlUrl="https://www.cncf.io/" />
     <outline text="Noted.lol" type="rss" xmlUrl="https://noted.lol/rss/" htmlUrl="https://noted.lol/" />
     <outline text="r/Selfhosted" type="rss" xmlUrl="https://www.reddit.com/r/selfhosted.rss" htmlUrl="https://www.reddit.com/r/selfhosted" />
+    <outline text="Thalheim Blog" type="rss" xmlUrl="https://blog.thalheim.io/index.xml" htmlUrl="https://blog.thalheim.io/"  />
   </body>
 </opml>
