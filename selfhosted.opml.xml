@@ -4,9 +4,7 @@
     <title>Self hosted</title>
   </head>
   <body>
-    <outline text="Joinemm Blog" type="rss" xmlUrl="https://joinemm.dev/rss.xml" htmlUrl="https://joinemm.dev/blog/" />
     <outline text="CNCF" type="rss" xmlUrl="https://www.cncf.io/feed/" htmlUrl="https://www.cncf.io/" />
-    <outline text="NixOS Announcements" type="rss" xmlUrl="https://nixos.org/blog/announcements-rss.xml" htmlUrl="https://nixos.org/blog/" />
     <outline text="Noted.lol" type="rss" xmlUrl="https://noted.lol/rss/" htmlUrl="https://noted.lol/" />
     <outline text="r/Selfhosted" type="rss" xmlUrl="https://www.reddit.com/r/selfhosted.rss" htmlUrl="https://www.reddit.com/r/selfhosted" />
   </body>

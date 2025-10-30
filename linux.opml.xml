@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>Self hosted</title>
+  </head>
+  <body>
+    <outline text="Joinemm Blog" type="rss" xmlUrl="https://joinemm.dev/rss.xml" htmlUrl="https://joinemm.dev/blog/" />
+    <outline text="NixOS Announcements" type="rss" xmlUrl="https://nixos.org/blog/announcements-rss.xml" htmlUrl="https://nixos.org/blog/" />
+    <outline text="vimjoyer" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_zBdZ0_H_jn41FDRG7q4Tw" htmlUrl="https://www.youtube.com/channel/UC_zBdZ0_H_jn41FDRG7q4Tw"/>
+  </body>
+</opml>
