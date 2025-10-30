@@ -6,5 +6,10 @@
   <body>
     <outline text="NixOS Announcements" type="rss" xmlUrl="https://nixos.org/blog/announcements-rss.xml" htmlUrl="https://nixos.org/blog/" />
     <outline text="vimjoyer" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_zBdZ0_H_jn41FDRG7q4Tw" htmlUrl="https://www.youtube.com/channel/UC_zBdZ0_H_jn41FDRG7q4Tw"/>
+    <outline text="tecmint" type="rss" xmlUrl="https://www.tecmint.com/feed/" htmlUrl="https://www.tecmint.com/" />
+    <outline text="its FOSS" type="rss" xmlUrl="https://itsfoss.com/rss/" htmlUrl="https://itsfoss.com/" />
+    <outline text="Linux Journal" type="rss" xmlUrl="https://www.linuxjournal.com/node/feed" htmlUrl="https://www.linuxjournal.com/" />
+    <outline text="Linux Foundation" type="rss" xmlUrl="https://www.linuxfoundation.org/blog/rss.xml" htmlUrl="https://www.linuxfoundation.org/blog" />
+    <outline text="Linux Handbook" type="rss" xmlUrl="https://linuxhandbook.com/rss/" htmlUrl="https://linuxhandbook.com/latest/" />
   </body>
 </opml>
