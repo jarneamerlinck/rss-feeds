@@ -10,5 +10,6 @@
       <outline text="ML in Production" type="rss" xmlUrl="https://mlinproduction.com/feed/" htmlUrl="https://mlinproduction.com/"/>
       <outline text="OpenAI" type="rss" xmlUrl="http://full-test-rss/makefulltextfeed.php?url=sec%3A%2F%2Fopenai.com%2Fblog%2Frss&amp;max=10&amp;links=preserve&amp;exc=&amp;submit=Create+Feed" htmlUrl="https://openai.com/blog/rss"/>
       <outline text="The TensorFlow Blog" type="rss" xmlUrl="https://blog.tensorflow.org/feeds/posts/default?alt=rss" htmlUrl="https://blog.tensorflow.org/"/>
+      <outline text="Hugging face papers" type="rss" xmlUrl="https://papers.takara.ai/api/feed" htmlUrl="https://huggingface.co/papers"/>
   </body>
 </opml>
