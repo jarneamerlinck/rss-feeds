@@ -9,5 +9,6 @@
     <outline text="Noted.lol" type="rss" xmlUrl="https://noted.lol/rss/" htmlUrl="https://noted.lol/" />
     <outline text="r/Selfhosted" type="rss" xmlUrl="https://www.reddit.com/r/selfhosted.rss" htmlUrl="https://www.reddit.com/r/selfhosted" />
     <outline text="Thalheim Blog" type="rss" xmlUrl="https://blog.thalheim.io/index.xml" htmlUrl="https://blog.thalheim.io/"  />
+    <outline text="Self host" type="rss" xmlUrl="https://selfh.st/rss/" htmlUrl="https://selfh.st"  />
   </body>
 </opml>
