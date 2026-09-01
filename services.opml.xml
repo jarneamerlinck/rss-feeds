@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>Services</title>
+  </head>
+  <body>
+    <outline text="Status proton" type="rss" xmlUrl="https://status.proton.me/history.rss" htmlUrl="https://status.proton.me/#" />
+  </body>
+</opml>
+
