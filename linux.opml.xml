@@ -11,5 +11,6 @@
     <outline text="Linux Journal" type="rss" xmlUrl="https://www.linuxjournal.com/node/feed" htmlUrl="https://www.linuxjournal.com/" />
     <outline text="Linux Foundation" type="rss" xmlUrl="https://www.linuxfoundation.org/blog/rss.xml" htmlUrl="https://www.linuxfoundation.org/blog" />
     <outline text="Linux Handbook" type="rss" xmlUrl="https://linuxhandbook.com/rss/" htmlUrl="https://linuxhandbook.com/latest/" />
+    <outline text="fzakaria Nix Blog" type="rss" xmlUrl="https://fzakaria.com/feed.xml" htmlUrl="https://fzakaria.com/" />
   </body>
 </opml>
