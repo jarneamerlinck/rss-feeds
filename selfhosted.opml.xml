@@ -10,5 +10,6 @@
     <outline text="r/Selfhosted" type="rss" xmlUrl="https://www.reddit.com/r/selfhosted.rss" htmlUrl="https://www.reddit.com/r/selfhosted" />
     <outline text="Thalheim Blog" type="rss" xmlUrl="https://blog.thalheim.io/index.xml" htmlUrl="https://blog.thalheim.io/"  />
     <outline text="Self host" type="rss" xmlUrl="https://selfh.st/rss/" htmlUrl="https://selfh.st"  />
+    <outline text="Personal blog" type="rss" xmlUrl="https://blog.ko0.net/rss.xml" htmlUrl="https://blog.ko0.net/"  />
   </body>
 </opml>
